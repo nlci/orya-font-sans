@@ -137,7 +137,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
-  <integer>1</integer>
+  <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.New Parameter</key>
   <string>New Value</string>
   <key>com.schriftgestaltung.customParameter.GSFontMaster._strikeoutPosition</key>
