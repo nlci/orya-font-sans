@@ -3,7 +3,9 @@
     <axes>
         <axis default="90.0" maximum="190.0" minimum="26.0" name="weight" tag="wght">
             <map input="26.0" output="26.0" />
+            <map input="78.0" output="78.0" />
             <map input="90.0" output="90.0" />
+            <map input="140.0" output="140.0" />
             <map input="151.0" output="151.0" />
             <map input="170.0" output="170.0" />
             <map input="190.0" output="190.0" />
@@ -66,7 +68,7 @@
         </instance>
         <instance familyname="Japa Sans Oriya" filename="instances/JapaSansOriya-Regular.ufo" name="Japa Sans Oriya Regular" stylename="Regular" stylemapfamilyname="Japa Sans Oriya" stylemapstylename="regular" postscriptfontname="JapaSansOriya-Regular">
             <location>
-                <dimension name="weight" xvalue="90.0" />
+                <dimension name="weight" xvalue="78.0" />
                 <dimension name="width" xvalue="100.0" />
                 <dimension name="custom" xvalue="0.0" />
             </location>
@@ -75,7 +77,7 @@
         </instance>
         <instance familyname="Japa Sans Oriya" filename="instances/JapaSansOriya-Bold.ufo" name="Japa Sans Oriya Bold" stylename="Bold" stylemapfamilyname="Japa Sans Oriya" stylemapstylename="bold" postscriptfontname="JapaSansOriya-Bold">
             <location>
-                <dimension name="weight" xvalue="151.0" />
+                <dimension name="weight" xvalue="140.0" />
                 <dimension name="width" xvalue="100.0" />
                 <dimension name="custom" xvalue="0.0" />
             </location>
