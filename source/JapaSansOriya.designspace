@@ -86,7 +86,7 @@
         </instance>
         <instance familyname="Japa Sans Oriya Ends" filename="instances/JapaSansOriyaEnds-Bold.ufo" name="Japa Sans Oriya Ends Black" stylename="Bold" stylemapfamilyname="Japa Sans Oriya Ends" stylemapstylename="bold" postscriptfontname="JapaSansOriyaEnds-Bold">
             <location>
-                <dimension name="weight" xvalue="190.0" />
+                <dimension name="weight" xvalue="170.0" />
                 <dimension name="width" xvalue="100.0" />
                 <dimension name="custom" xvalue="0.0" />
             </location>

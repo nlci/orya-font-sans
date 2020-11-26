@@ -89,7 +89,7 @@
         <!--
         <instance familyname="Japa Sans Oriya" filename="instances/JapaSansOriya-Black.ufo" name="Japa Sans Oriya Black" stylename="Black" stylemapfamilyname="Japa Sans Oriya" stylemapstylename="black" postscriptfontname="JapaSansOriya-Black">
             <location>
-                <dimension name="weight" xvalue="190.0" />
+                <dimension name="weight" xvalue="170.0" />
                 <dimension name="width" xvalue="100.0" />
                 <dimension name="custom" xvalue="0.0" />
             </location>
