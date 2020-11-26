@@ -25,6 +25,7 @@ build:
     # - smith pyfontaine
     # - smith fontlint
     - smith zip
+    - smith pdfs
     # - smith tarball
     # - smith release
 
