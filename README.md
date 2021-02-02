@@ -9,3 +9,5 @@ For copyright and licensing information - including any Reserved Font Names - se
 For practical information about using, modifying and redistributing this font see [OFL-FAQ.txt](OFL-FAQ.txt).
 
 For more details about this project, including changelog and acknowledgements see [FONTLOG.txt](FONTLOG.txt) and [README.txt](README.txt).
+
+Further work has moved to a new repo.
